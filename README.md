@@ -15,7 +15,7 @@ Erbium is a WIP universal gameserver for Fortnite.
 - **Quests**
 
 ## Configuration
-- In order to change options, go to Erbium/Public/Configuration.h & configure to your liking!
+- In order to change options, go to Erbium/Public/Configuration.h & configure to your liking! (Leave port 7777 in config file if ur using nexa backend!)
 
 > If you have issues with a specific version or find a bug, please make an issue.
 
